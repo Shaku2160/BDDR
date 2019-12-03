@@ -1,0 +1,12 @@
+[
+{"titre": "Acid Arrow", "classe": " sorcerer/wizard 2, magus 2, bloodrager 2", "component": " V, S, M (rhubarb leaf and an adder's stomach), F (a dart)", "resistance": "no"},
+{"titre": "Acid Fog", "classe": " sorcerer/wizard 6, magus 6", "component": " V, S, M (powdered peas and an animal hoof)", "resistance": "no"},
+{"titre": "Align Weapon", "classe": " cleric/oracle 2, inquisitor 2", "component": " V, S, DF", "resistance": "yes"},
+{"titre": "Air Walk", "classe": " cleric/oracle 4, druid 4, alchemist 4", "component": " V, S, DF", "resistance": "yes"},
+{"titre": "Acid Splash", "classe": " sorcerer/wizard 0, summoner 0, inquisitor 0, magus 0", "component": " V, S", "resistance": "no"},
+{"titre": "Alarm", "classe": " bard 1, ranger 1, sorcerer/wizard 1, summoner 1, inquisitor 1", "component": " V, S, F/DF (a tiny bell and a piece of very fine silver wire)", "resistance": "no"},
+{"titre": "Alter Self", "classe": " bard 2, sorcerer/wizard 2, witch 2, summoner 2, alchemist 2, magus 2, shaman 2", "component": " V, S, M (a piece of the creature whose form you plan to assume)", "resistance": "no"},
+{"titre": "Aid", "classe": " cleric/oracle 2, inquisitor 2, alchemist 2, shaman 2", "component": " V, S, DF", "resistance": "yes"},
+{"titre": "Analyze Dweomer", "classe": " bard 6, sorcerer/wizard 6, witch 6, alchemist 6", "component": " V, S, F (a ruby and gold lens worth 1,500 gp)", "resistance": "no"},
+{"titre": "Animal Growth", "classe": " druid 5, ranger 4, sorcerer/wizard 5, shaman 5", "component": " V, S", "resistance": "yes"}
+]
